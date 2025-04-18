@@ -4,7 +4,7 @@ Desenvolvido como atividade prática da disciplina **Desenvolvimento Mobile** no
 
 Este projeto é uma implementação de um aplicativo para hamburgueria em **Flutter** que permite aos clientes montarem seus pedidos com diversos adicionais e enviá-los por e-mail.
 
-<img src="./assets/images/demo.gif" alt="Demonstração do app HamburgueriaZ" width="300">
+<img src="./app-hamburgueria.gif" alt="Demonstração do app HamburgueriaZ" width="300">
 
 ## Tecnologias Utilizadas
 
